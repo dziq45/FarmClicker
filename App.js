@@ -37,7 +37,7 @@ const App = () => {
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>Step One</Text>
               <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>Siema.js</Text> to change this
+                Edit <Text style={styles.highlight}>Siemaaaaaaa.js</Text> to change this
                 screen and then come back to see your edits.
               </Text>
             </View>
